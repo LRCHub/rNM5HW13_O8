@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Diva",
+  "base_artist": "Beyoncé",
+  "createdAt": "2025-12-25T13:48:55.080340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Air Walker (ft. Diva Ice)",
+      "artist": "Mt Eden",
+      "has_synced": true,
+      "path": "select/01_Air_Walker_(ft._Diva_Ice)_Mt_Eden.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diva",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/02_Diva_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diva Lady",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/03_Diva_Lady_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Manwomanboggie (feat. Amanda Diva)",
+      "artist": "Q-Tip",
+      "has_synced": false,
+      "path": "select/04_Manwomanboggie_(feat._Amanda_Diva)_Q-Tip.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diva Satanica",
+      "artist": "Arch Enemy",
+      "has_synced": false,
+      "path": "select/05_Diva_Satanica_Arch_Enemy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Casta Diva",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/06_Casta_Diva_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diva",
+      "artist": "Eugenio Finardi",
+      "has_synced": false,
+      "path": "select/07_Diva_Eugenio_Finardi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diva",
+      "artist": "Donatella Rettore",
+      "has_synced": true,
+      "path": "select/08_Diva_Donatella_Rettore.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diva",
+      "artist": "Rettore",
+      "has_synced": true,
+      "path": "select/09_Diva_Rettore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diva Divina",
+      "artist": "Giuni Russo",
+      "has_synced": false,
+      "path": "select/10_Diva_Divina_Giuni_Russo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La strega (La diva del sabato sera)",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/11_La_strega_(La_diva_del_sabato_sera)_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broke Diva",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/12_Broke_Diva_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La Strega ( La Diva Del Sabato Sera )",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/13_La_Strega_(_La_Diva_Del_Sabato_Sera_)_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_01_Diva_ビヨンセ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_02_Diva_ビヨンセ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_03_Diva_ビヨンセ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_04_Diva_ビヨンセ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_05_Diva_ビヨンセ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Diva",
+      "artist": "ビヨンセ",
+      "has_synced": false,
+      "path": "select/pl_06_Diva_ビヨンセ.txt"
+    }
+  ]
+}
